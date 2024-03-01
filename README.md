@@ -68,10 +68,3 @@ The Web Content AI Scraper offers the following functionalities:
 
 The Web Content AI Scraper represents a significant advancement in web content extraction and analysis, offering users a powerful tool for accessing and understanding web content more efficiently. Future enhancements may include multi-language support, multimedia content extraction, and integration with external knowledge bases. The scraper holds immense potential for revolutionizing information retrieval systems and advancing the field of natural language processing.
 
-## References
-
-- Insert relevant references and citations here.
-
-## Acknowledgments
-
-We acknowledge the support and contributions of [Organization/Institution Name] in the development of the Web Content AI Scraper. Special thanks to the developers, researchers, and contributors who have contributed to the success of this project.
