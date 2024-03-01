@@ -100,3 +100,7 @@ else:
         else:
             with st.chat_message("User"):
                 st.write(message.content)
+
+
+# cd to github/rag-project run the command below in your terminal to start the program
+# streamlit run app.py
